@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+# Env / secrets
+.env
+.env.local
+*.keystore
+google-services.json
+# Node
+node_modules/
+dist/
+.expo/
+web-build/
+# Android/iOS native builds
+mobile/android/
+mobile/ios/
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
